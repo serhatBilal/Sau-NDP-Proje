@@ -1,0 +1,76 @@
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\obj\Debug\AtikToplama.csprojAssemblyReference.cache
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\obj\Debug\AtikToplama.AtikToplama.resources
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\obj\Debug\AtikToplama.Properties.Resources.resources
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\obj\Debug\AtikToplama.csproj.GenerateResource.cache
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\obj\Debug\AtikToplama.csproj.CoreCompileInputs.cache
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\AtikToplama.exe.config
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\AtikToplama.exe
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\AtikToplama.pdb
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\obj\Debug\AtikToplama.exe
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\obj\Debug\AtikToplama.pdb
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\Resources\0_beyaz.png
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\Resources\1_cam_sise.png
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\Resources\2_bardak.png
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\Resources\3_gazete.png
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\Resources\4_dergi.png
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\Resources\5_domates.png
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\Resources\6_salatalik.png
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\Resources\7_kola_kutusu.png
+C:\Users\shiza\Source\repos\AtikToplama\AtikToplama\bin\Debug\Resources\8_salca_kutusu.png
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\AtikToplama.exe.config
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\AtikToplama.exe
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\AtikToplama.pdb
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.csprojAssemblyReference.cache
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.AtikToplama.resources
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.Properties.Resources.resources
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.csproj.GenerateResource.cache
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.csproj.CoreCompileInputs.cache
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.exe
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.pdb
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\Images\0-beyaz.png
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\Images\1-cam-sise.png
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\Images\2-bardak.png
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\Images\3-gazete.png
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\Images\4-dergi.png
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\Images\5-domates.png
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\Images\6-salatalik.png
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\Images\7-kola_kutusu.png
+C:\Users\shiza\Source\repos\AtikToplamaV2\AtikToplama\bin\Debug\Images\8-salca_kutusu.png
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\Images\0-beyaz.png
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\Images\1-cam-sise.png
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\Images\2-bardak.png
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\Images\3-gazete.png
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\Images\4-dergi.png
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\Images\5-domates.png
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\Images\6-salatalik.png
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\Images\7-kola_kutusu.png
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\Images\8-salca_kutusu.png
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\AtikToplama.exe.config
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\AtikToplama.exe
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\bin\Debug\AtikToplama.pdb
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.csprojAssemblyReference.cache
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.AtikToplama.resources
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.Properties.Resources.resources
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.csproj.GenerateResource.cache
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.csproj.CoreCompileInputs.cache
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.exe
+C:\Users\Serha\Desktop\AtikToplamaV2\AtikToplama\obj\Debug\AtikToplama.pdb
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\Images\0-beyaz.png
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\Images\1-cam-sise.png
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\Images\2-bardak.png
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\Images\3-gazete.png
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\Images\4-dergi.png
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\Images\5-domates.png
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\Images\6-salatalik.png
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\Images\7-kola_kutusu.png
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\Images\8-salca_kutusu.png
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\AtikToplama.exe.config
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\AtikToplama.exe
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\bin\Debug\AtikToplama.pdb
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\obj\Debug\AtikToplama.csprojAssemblyReference.cache
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\obj\Debug\AtikToplama.AtikToplama.resources
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\obj\Debug\AtikToplama.Properties.Resources.resources
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\obj\Debug\AtikToplama.csproj.GenerateResource.cache
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\obj\Debug\AtikToplama.csproj.CoreCompileInputs.cache
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\obj\Debug\AtikToplama.exe
+C:\Users\Serha\Desktop\benim ndp\AtikToplama\obj\Debug\AtikToplama.pdb
